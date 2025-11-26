@@ -269,5 +269,9 @@ ON
 
 ![image](https://github.com/user-attachments/assets/f2ed3a8d-50ee-4576-b936-9dfde3589de2)
 
+**Grade:**
+<img width="1489" height="199" alt="image" src="https://github.com/user-attachments/assets/f0473bc5-8d84-4df9-937e-e69271a29101" />
+
+
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
