@@ -7,8 +7,8 @@ To understand and apply ER modeling concepts by creating ER diagrams for real-wo
 ## Purpose
 Gain hands-on experience in designing ER diagrams that represent database structure including entities, relationships, attributes, and constraints.
 
-## Name : K KESAVA SAI
-## Reg. No.: 212223230105
+## Name : K Santhan Kumar
+## Reg. No.: 2122232340065
 ---
 
 # Scenario A: City Fitness Club Management
